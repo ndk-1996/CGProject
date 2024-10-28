@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513107748 source:c:\users\desktop\desktop\cgsourcecode\p4\p4\main.cpp
+	<iostream>
+	<vector>
+	<GL/glut.h>
+	<string>
+
